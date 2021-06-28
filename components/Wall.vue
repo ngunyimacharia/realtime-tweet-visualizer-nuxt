@@ -41,19 +41,7 @@ export default {
   },
   data() {
     return {
-      tweets: [
-        {
-          username: "1000dayscodingb",
-          text: "RT @Paula_Piccard: Google considered using drones for firefighting\nhttps://t.co/t0E6mTa2Wf @CNET \n#MachineLearning #5G #DataScience #100D…",
-          full_name: "1000 Days Of Coding - BOT",
-          tweet_url:
-            "https://twitter.com/1347291458278080513/status/1409170257630035975",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1377718369844011009/5JZNdqVy_normal.jpg",
-          created_at: "Sun Jun 27 15:22:25 +0000 2021",
-          lang: "en",
-        },
-      ],
+      tweets: [],
     };
   },
 
