@@ -41,7 +41,8 @@ export default {
   },
   data() {
     return {
-      tweets: [
+      tweets: [],
+      defaultTweets: [
         {
           username: "Pariveda_Inc",
           text: "How do you find your best customers when you're lacking #data and a centralized industry? Find out how out-of-the-box thinking can lead to meaningful insights with our free on-demand video content. https://t.co/hEjRjK5PLQ\n#Data #MDE #ModernData https://t.co/SRcuMvj8x7",
@@ -84,8 +85,17 @@ export default {
     channel.bind(EVENT, (data) => {
       this.tweets.push(data);
     });
+
+    this.addDefaultTweets();
   },
 
+  methods: {
+    addDefaultTweets() {
+      setTimeout(() => this.tweets.push(this.defaultTweets[0]), 1000);
+      setTimeout(() => this.tweets.push(this.defaultTweets[1]), 2000);
+      setTimeout(() => this.tweets.push(this.defaultTweets[2]), 3000);
+    },
+  },
   beforeDestroy() {
     PUSHER.unsubscribe(CHANNEL);
   },
