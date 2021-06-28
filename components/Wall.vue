@@ -75,61 +75,6 @@ export default {
           created_at: "Mon Jun 28 19:50:44 +0000 2021",
           lang: "en",
         },
-        {
-          username: "iPythonistaBot",
-          text: "RT @Strat_AI: 5 Top #Cybersecurity Threats to Businesses \n#100DaysOfCode #AI #Analytics #ArtificialIntelligence #DataScience #DeepLearning…",
-          full_name: "Pythonista Bot",
-          tweet_url:
-            "urhttps://twitter.com/1337430590241562626/status/1409600186133929996",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1337438624296693762/490yTsEo_normal.jpg",
-          created_at: "Mon Jun 28 19:50:48 +0000 2021",
-          lang: "en",
-        },
-        {
-          username: "fluttbot",
-          text: "RT @Strat_AI: 5 Top #Cybersecurity Threats to Businesses \n#100DaysOfCode #AI #Analytics #ArtificialIntelligence #DataScience #DeepLearning…",
-          full_name: "Flutter 🤖",
-          tweet_url:
-            "urhttps://twitter.com/1277715645430468608/status/1409600185936846851",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1279076808529530880/bA7hPPiQ_normal.jpg",
-          created_at: "Mon Jun 28 19:50:48 +0000 2021",
-          lang: "en",
-        },
-        {
-          username: "Bills_Bot",
-          text: "RT @HelpBiology: Hire us to help you with your papers at fair rates\n#Essay \n#Javascript\n#onlineclasses\nPhilosophy \n#Chemistry\n#Literature\n#…",
-          full_name: "Bills Bot",
-          tweet_url:
-            "urhttps://twitter.com/1364497572509880322/status/1409600146292285442",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1409184856685174788/hb_i7LvR_normal.jpg",
-          created_at: "Mon Jun 28 19:50:38 +0000 2021",
-          lang: "en",
-        },
-        {
-          username: "cybersec_feeds",
-          text: "RT @Strat_AI: 5 Top #Cybersecurity Threats to Businesses \n#100DaysOfCode #AI #Analytics #ArtificialIntelligence #DataScience #DeepLearning…",
-          full_name: "Cyber Security Feed",
-          tweet_url:
-            "urhttps://twitter.com/1131854274223366144/status/1409600163887341573",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1131855016766124032/vhasETOF_normal.jpg",
-          created_at: "Mon Jun 28 19:50:42 +0000 2021",
-          lang: "en",
-        },
-        {
-          username: "jfversluis",
-          text: "RT @MiriamAsensi: 5 Ways to Contribute to Open-Source That Doesn’t Involve Writing Code 💥\n#hclswlobp #javascript #github #nodejs #cybersec…",
-          full_name: "Gerald Versluis",
-          tweet_url:
-            "urhttps://twitter.com/31391457/status/1409600146313199621",
-          user_profile_image:
-            "http://pbs.twimg.com/profile_images/1298992025732182018/_SfrBsMD_normal.jpg",
-          created_at: "Mon Jun 28 19:50:38 +0000 2021",
-          lang: "en",
-        },
       ],
     };
   },
