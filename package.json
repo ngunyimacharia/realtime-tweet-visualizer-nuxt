@@ -9,10 +9,10 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "cloudinary-vue": "^1.2.2",
-    "pusher-js": "^7.0.3",
+    "@nuxtjs/cloudinary": "^1.0.3-beta-4",
     "core-js": "^3.15.1",
     "nuxt": "^2.15.7",
+    "pusher-js": "^7.0.3",
     "trim-character": "^2.0.1",
     "vue-final-modal": "^2.4.0"
   },
